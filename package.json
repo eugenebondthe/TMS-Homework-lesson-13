@@ -1,0 +1,17 @@
+{
+  "name": "tms-homework-lesson-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node index.ts"
+  },
+  "author": "Eugene Bondarenko",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2"
+  }
+}
